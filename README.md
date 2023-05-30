@@ -1,7 +1,6 @@
-# unobot
 # UNOBOT
 
-Welcome to UNOBOT, a personal project by JOCELYN currently in the testing phase. UNOBOT is an intelligent chatbot capable of holding conversations.
+Welcome to UNOBOT, a personal project currently in the testing phase. UNOBOT is an intelligent chatbot capable of holding conversations.
 
 ## Table of Contents
 
